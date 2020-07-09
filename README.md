@@ -9,7 +9,7 @@ Screenshot & Demo Video
 -----------------------
 
 <a style="float:right" href="http://screencast.com/t/FlWlTPS8XKrI" target="_blank">
-  <img alt="FixIt Demo Video" src="https://github.com/mor0981/FixIt/blob/master/fixit.png" width="276" height="537" display: block;
+  <img alt="FixIt Demo Video" src="https://github.com/mor0981/FixIt/blob/master/fixit.png" width="450" height="537" display: block;
   margin-left: auto;
   margin-right: auto; />
 </a>
