@@ -9,5 +9,5 @@ Screenshot & Demo Video
 -----------------------
 
 <a style="float:right" href="http://screencast.com/t/FlWlTPS8XKrI" target="_blank">
-  <img alt="FixIt Demo Video" src="https://github.com/mor0981/FixIt/blob/master/fixit.png" width="276" height="537" />
+  <img alt="FixIt Demo Video" src="https://github.com/mor0981/FixIt/blob/master/fixit.png" width="276" height="537" style="max-width:100%;" />
 </a>
