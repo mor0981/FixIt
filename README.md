@@ -1,9 +1,13 @@
 # FixIt
 
-This app is a fork of the [sample Xcode project PhotoScroller][PhotoScroller]:
+FixIt app for searching service providers.
+In the app you can see the reviews of the service providers that the customers gave.
+Anyone who has certain abilities can sign up and give the service they know.
 
-"'PhotoScroller' demonstrates the use of embedded UIScrollViews and CATiledLayer
-to create a rich user experience for displaying and paginating photos that can
-be individually panned and zoomed. CATiledLayer is used to increase the
-performance of paging, panning, and zooming with high-resolution images or large
-sets of photos."
+
+Screenshot & Demo Video
+-----------------------
+
+<a style="float:right" href="http://screencast.com/t/FlWlTPS8XKrI" target="_blank">
+  <img alt="FixIt Demo Video" src="https://github.com/mor0981/FixIt/blob/master/fixit.png" width="276" height="537" />
+</a>
