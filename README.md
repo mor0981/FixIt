@@ -1,4 +1,3 @@
-
 # FixIt
 
 FixIt app for searching service providers.
@@ -10,16 +9,18 @@ Screenshot & Demo Video
 -----------------------
 
 
-  <p style="display: flex;flex-direction:column;">
-    
+  <div style="text-align: center;justify-content: center;display: flex;flex-direction:column;">
+    <a>
       <img alt="FixIt Demo Video" src="https://github.com/mor0981/FixIt/blob/master/logo.png" width="100" height="100" display: block;
       margin-left: auto;
       margin-right: auto; />
-    
+    </a>
+
+    <a>
       <img alt="FixIt Demo Video" src="https://github.com/mor0981/FixIt/blob/master/fixit.png" width="450" height="537" display: block;
       margin-left: auto;
       margin-right: auto; />
-    
+    </a>
 
-   </p>
-
+   </div>
+ 
