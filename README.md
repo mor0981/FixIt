@@ -15,9 +15,11 @@ Screenshot & Demo Video
 </p>
 
  <p align="center" style="display: flex;">
- <a style="float:right" herf="https://drive.google.com/file/d/1KEn44dJsjGI1PSjypNj1FnU03Lo0LyLA/view?usp=sharing" target="_blank">
+ 
   <img src="https://github.com/mor0981/FixIt/blob/master/fixit.png" width="450" height="537" alt="accessibility text">
-  </a>
+  
 </p>
 
-To see a demo video, click the screenshot (right). =>
+To see a demo video, click [here].
+
+[here]: https://drive.google.com/file/d/1KEn44dJsjGI1PSjypNj1FnU03Lo0LyLA/view?usp=sharing
