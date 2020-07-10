@@ -9,7 +9,7 @@ Screenshot & Demo Video
 -----------------------
 
  
- <p align="center">
+ <p align="center" style="display: flex;">
   <img src="https://github.com/mor0981/FixIt/blob/master/logo.png" width="100" title="hover text">
   <img src="https://github.com/mor0981/FixIt/blob/master/fixit.png" width="450" height="537" alt="accessibility text">
 </p>
