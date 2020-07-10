@@ -8,9 +8,9 @@ Anyone who has certain abilities can sign up and give the service they know.
 
 Screenshot & Demo Video
 -----------------------
-```html
-<body>
-  <div style="text-align: center;justify-content: center;display: flex;flex-direction:column;">
+
+
+  <p style="display: flex;flex-direction:column;">
     <a>
       <img alt="FixIt Demo Video" src="https://github.com/mor0981/FixIt/blob/master/logo.png" width="100" height="100" display: block;
       margin-left: auto;
@@ -23,5 +23,5 @@ Screenshot & Demo Video
       margin-right: auto; />
     </a>
 
-   </div>
- </body>
+   </p>
+
