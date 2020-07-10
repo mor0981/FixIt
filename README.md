@@ -7,7 +7,7 @@ Anyone who has certain abilities can sign up and give the service they know.
 
 Screenshot & Demo Video
 -----------------------
-<p style="display: flex;flex-direction:col;">
+<p style="display: flex;">
   To see a demo video, click the screenshot =>
   <a>
     <img alt="FixIt Demo Video" src="https://github.com/mor0981/FixIt/blob/master/logo.png" width="100" height="100" display: block;
