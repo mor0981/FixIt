@@ -13,9 +13,9 @@ Screenshot & Demo Video
   <img src="https://github.com/mor0981/FixIt/blob/master/logo.png" width="100" title="hover text">
   
 </p>
-<a herf="https://drive.google.com/file/d/1KEn44dJsjGI1PSjypNj1FnU03Lo0LyLA/view?usp=sharing">
+
  <p align="center" style="display: flex;">
-  
+ <a herf="https://drive.google.com/file/d/1KEn44dJsjGI1PSjypNj1FnU03Lo0LyLA/view?usp=sharing">
   <img src="https://github.com/mor0981/FixIt/blob/master/fixit.png" width="450" height="537" alt="accessibility text">
   </a>
 </p>
