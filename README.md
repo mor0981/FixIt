@@ -4,6 +4,9 @@ FixIt app for searching service providers.
 In the app you can see the reviews of the service providers that the customers gave.
 Anyone who has certain abilities can sign up and give the service they know.
 
+- The app was developed on the React Native platform
+- Database: Firebase
+
 
 Screenshot & Demo Video
 -----------------------
